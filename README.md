@@ -19,13 +19,24 @@ Copy Id
 
 First run the "deployCommands.bat"
 
-![Unben23annt](https://user-images.githubusercontent.com/76687212/164969259-5ff3f89e-0f0e-41cd-b840-e0d6865b1a4d.PNG)
+![Unben23annt_LI](https://user-images.githubusercontent.com/76687212/164969395-221ea5ba-c184-4602-b284-71ec18550109.jpg)
 
 
 Secondly run "Bot.bat"
 
 
-![Unbenannt](https://user-images.githubusercontent.com/76687212/164969260-f70b0ee2-4ced-4293-9b4c-e4b822a7b19d.PNG)
+![Unbenannt_LI](https://user-images.githubusercontent.com/76687212/164969397-fa75fbfe-a84d-41ff-ae86-414c439be713.jpg)
 
 Now Ready 
 
+
+Toturial: SOON
+
+For help 
+Dc: Lexy#5903
+
+
+
+
+
+By: Lexy#5903
